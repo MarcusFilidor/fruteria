@@ -126,12 +126,12 @@
 </div>
 
 <div class="topnav">
-    <a href="#">Inicio</a> 
-    <a href="#">Frutas</a> 
-    <a href="#">Verduras</a>
-    <a href="#">Ofertas</a>
-    <a href="#">Recetas</a>
-    <a href="#" style="float:right">Contacto</a>
+     <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/imagen.html">Inicio</a> 
+    <a href="https://marcusfilidor.github.io/frutas/">Frutas</a> 
+    <a href="https://marcusfilidor.github.io/verduras/">Verduras</a>
+    <a href="https://marcusfilidor.github.io/ofertas/">Ofertas</a>
+    <a href="https://marcusfilidor.github.io/recetas/">Recetas</a>
+    <a href="https://marcusfilidor.github.io/contacto/" style="float:right">Contacto</a>
 </div>
 
 <div class="row">

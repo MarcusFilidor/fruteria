@@ -186,6 +186,8 @@
         <div class="card">
             <h3>Recetas Saludables</h3>
             <p>Descubre nuestras recetas fáciles y nutritivas para aprovechar al máximo las frutas y verduras frescas.</p>
+	    <a href="https://cookpad.com/mx/recetas/10837615-caldo-de-res-sencillo" target="_blank"> CALDO DE RES (SENCILLO)</a> <br> <br>
+            <a href="https://www.recetasnestle.com.co/recetas/ensalada-de-fruta-con-queso" target="_blank"> ENSALADA DE FRUTAS</a>
             <img src="receta.jpg" style="height=10px;">   
         </div>
     </div>

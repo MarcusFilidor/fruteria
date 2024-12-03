@@ -1,8 +1,8 @@
-
 <html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title> El platano riendo </title>
 
 <style>
     * {
@@ -11,8 +11,8 @@
 
     body {
         font-family: Arial; 
-        padding: 10px;
-        background: #ffe333;
+        padding: 5px;
+        background: green;
     }
 
     /* Header/Blog Title */
@@ -21,7 +21,7 @@
         padding: 30px; 
         text-align: center; 
         background: white;
-        border: 5px solid;
+        border: 2px solid;
     }
 
     .header h1 { 
@@ -60,18 +60,19 @@
     .leftcolumn {
         float: left; 
         width: 75%;
+        border: 2px solid;
         
     }
 
     .rightcolumn {
         float: left; 
         width: 25%;
-        background-color: #f1f1f1; 
-        padding-left: 20px;
-        border: 5px solid;
+        background-color: green; 
+        padding-left: 2px;
+        border: 2px solid;
     }
     
-/* Fake image */ 
+      /* Fake image */ 
 	.fakeimg {
 		background-color: #aaa; 
 		width: 100%; 
@@ -103,8 +104,10 @@
     /* Responsive layout */
     @media screen and (max-width: 800px) {
         .leftcolumn, .rightcolumn {
-            width: 100%;
+            width: 75%;
             padding: 0;
+            border: 2px solid;
+
         }
     }
 
@@ -121,52 +124,61 @@
 
 <div class="header">
     <h1>Frutería "El Plátano Riendo"</h1>
-    <img src="platano.png" style="height:150px;">
+    <img src="platano.png" style="height:50px;">
     <p>Catálogo en línea con lista de frutas y verduras frescas, precios diarios, ofertas destacadas y recetas saludables.</p>
 </div>
 
 <div class="topnav">
-     <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/imagen.html">Inicio</a> 
-    <a href="https://marcusfilidor.github.io/frutas/">Frutas</a> 
-    <a href="https://marcusfilidor.github.io/verduras/">Verduras</a>
-    <a href="https://marcusfilidor.github.io/ofertas/">Ofertas</a>
-    <a href="https://marcusfilidor.github.io/recetas/">Recetas</a>
-    <a href="https://marcusfilidor.github.io/contacto/" style="float:right">Contacto</a>
+    <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/imagen.html">Inicio</a> 
+    <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/frutas.html">Frutas</a> 
+    <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/verduras.html">Verduras</a>
+    <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/ofertas.html">Ofertas</a>
+    <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/recetas.html">Recetas</a>
+    <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/contacto.html" style="float:right">Contacto</a>
 </div>
 
 <div class="row">
     <div class="leftcolumn">
         <div class="card">
             <h2>Frutas Frescas</h2>
-            <h5>Precios diarios, Diciembre 2024</h5>
             <img src="frutas1.jpg" style="height:350px;">
+            <h5>Precios diarios, Diciembre 2024</h5>
             <p>En nuestra frutería, encontrarás una amplia selección de frutas frescas a los mejores precios del mercado.</p>
             <ul>
-                <li>Manzanas - $1.50 por kg</li>
-                <li>Plátanos - $0.80 por kg</li>
-                <li>Fresas - $2.00 por caja</li>
-                <li>Ciruela - $2.00 por caja</li>
-                <li>Durazno - </li>
-                <li>Granada roja - </li>
-                <li>Limón - </li>
-                <li>Mango - </li>
-                <li>Melon - </li>
-                <li>Piña - </li>
-                <li>Sandia - </li>
-                <li>Uva - </li>
+                <li>Manzanas  </li> <br>
+                <li>Plátanos  </li> <br>
+                <li>Fresas  </li> <br>
+                <li>Ciruela  </li> <br>
+                <li>Durazno  </li> <br>
+                <li>Granada roja </li> <br>
+                <li>Limón </li> <br>
+                <li>Mango </li> <br>
+                <li>Melon </li> <br>
+                <li>Piña </li> <br>
+                <li>Sandia  </li> <br>
+                <li>Uva </li> <br>
 
             </ul>
         </div> 
 
         <div class="card"> 
             <h2>Verduras Frescas</h2>
-            <h5>Precios diarios, Diciembre 2024</h5>
-            <img src="verduras.jpg" style="height:315px;"> 
+            <img src="verduras.jpg" style="height:315px;">
+            <h5>Precios diarios, Diciembre 2024</h5> 
             <p>Ofrecemos una gran variedad de verduras frescas, ideales para tus comidas saludables.</p>
             <ul>
-                <li>Lechuga - $1.00 por unidad</li>
-                <li>Tomates - $1.20 por kg</li>
-                <li>Zanahorias - $0.90 por kg</li>
+                <li>Lechuga </li> <br>
+                <li>Tomates </li> <br>
+                <li>Zanahorias </li> <br>
+                <li>Acelga </li> <br>
+                <li>Ajo </li> <br>
+                <li>Apio </li> <br>
+                <li>Brócoli </li> <br>
+                <li>Cebolla </li> <br>
+                <li>Coliflor </li> <br>
+                <li>Espinaca </li> <br>
+                <li>Pepino </li> <br>
+                
             </ul>
         </div> 
     </div>
@@ -182,13 +194,18 @@
             <h3>Ofertas Destacadas</h3> 
             <img src="promo1.jpeg" style="height=10px;">
             <img src="promo2.jpeg" style="height=10px;">
+            <ul class="offers-list">
+                <li>Manzana: 10% de descuento por compra mayor a 5 kg.</li> <br> <br>
+                <li>Plátano: 2x1 en la compra de 3 kg.</li> <br> <br>
+                <li>Tomate: 15% de descuento en compras mayores a $20.</li>
+            </ul>
         </div>
+
         <div class="card">
             <h3>Recetas Saludables</h3>
             <p>Descubre nuestras recetas fáciles y nutritivas para aprovechar al máximo las frutas y verduras frescas.</p>
-	    <a href="https://cookpad.com/mx/recetas/10837615-caldo-de-res-sencillo" target="_blank"> CALDO DE RES (SENCILLO)</a> <br> <br>
+            <a href="https://cookpad.com/mx/recetas/10837615-caldo-de-res-sencillo" target="_blank"> CALDO DE RES (SENCILLO)</a> <br> <br>
             <a href="https://www.recetasnestle.com.co/recetas/ensalada-de-fruta-con-queso" target="_blank"> ENSALADA DE FRUTAS</a>
-            <img src="receta1.jpg" style="height=10px;">   
         </div>
     </div>
 </div>

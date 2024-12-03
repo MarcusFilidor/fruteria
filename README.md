@@ -121,7 +121,7 @@
 
 <div class="header">
     <h1>Frutería "El Plátano Riendo"</h1>
-    <img src="platano.png" style="height:250px;">
+    <img src="platano.png" style="height:150px;">
     <p>Catálogo en línea con lista de frutas y verduras frescas, precios diarios, ofertas destacadas y recetas saludables.</p>
 </div>
 

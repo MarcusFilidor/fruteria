@@ -124,17 +124,17 @@
 
 <div class="header">
     <h1>Frutería "El Plátano Riendo"</h1>
-    <img src="platano.png" style="height:50px;">
+    <img src="platano.png" style="height:100px;">
     <p>Catálogo en línea con lista de frutas y verduras frescas, precios diarios, ofertas destacadas y recetas saludables.</p>
 </div>
 
 <div class="topnav">
-    <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/imagen.html">Inicio</a> 
-    <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/frutas.html">Frutas</a> 
-    <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/verduras.html">Verduras</a>
-    <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/ofertas.html">Ofertas</a>
-    <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/recetas.html">Recetas</a>
-    <a href="file:///C:/xampp/htdocs/DW/ProyectoFinal/contacto.html" style="float:right">Contacto</a>
+    <a href="https://marcusfilidor.github.io/fruteria/">Inicio</a> 
+    <a href="https://marcusfilidor.github.io/frutas/">Frutas</a> 
+    <a href="https://marcusfilidor.github.io/verduras/">Verduras</a>
+    <a href="https://marcusfilidor.github.io/ofertas/">Ofertas</a>
+    <a href="https://marcusfilidor.github.io/recetas/">Recetas</a>
+    <a href="https://marcusfilidor.github.io/contacto/" style="float:right">Contacto</a>
 </div>
 
 <div class="row">
